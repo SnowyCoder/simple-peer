@@ -19,3 +19,9 @@ presets:
     providers: airtap-manual
     browsers:
       - name: manual
+  system:
+    providers:
+    - airtap-system
+    browsers:
+      - name: firefox
+      - name: chromium

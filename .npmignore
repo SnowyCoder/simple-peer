@@ -3,4 +3,4 @@
 img/
 perf/
 test/
-
+*.min.js
